@@ -130,7 +130,7 @@
 
 <script>
   // Pega aquí la URL del webhook de Make (entre las comillas).
-  const WEBHOOK_URL = "PEGA_AQUI_TU_URL_DE_MAKE";
+  const WEBHOOK_URL = "https://hook.us2.make.com/dx4inuxhfvsvt77y547hmu7m1e0pgj9x";
 
   const select = document.getElementById("entidad");
   const boton = document.getElementById("consultar");
